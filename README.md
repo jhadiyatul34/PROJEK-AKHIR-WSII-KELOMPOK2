@@ -5,7 +5,7 @@
 
 ### 🌐Tentang Project:
 ----------------
-Nama project ini adalah Siperpus, sebuah platform yang bertujuan untuk meningkatkan efisiensi dalam manajemen koleksi ini dan manfaatnya [penjelasan singkat mengenai tujuan dan manfaat dari project kelompok kamu]. Dengan menggunakan teknologi-teknologi modern, kami berusaha memberikan pengalaman terbaik kepada pengguna kami.
+Nama project ini adalah Siperpus, sebuah platform yang bertujuan untuk meningkatkan efisiensi dalam manajemen koleksi ini dan manfaatnya adalah lebih mudah dalam mengelola perpustakaan dan mempermudah untuk urusan manajemen perpustakaan. Dengan menggunakan teknologi-teknologi modern, kami berusaha memberikan pengalaman terbaik kepada pengguna kami.
 
 ### 👨🏻‍💻Anggota Kelompok:
 ----------------
