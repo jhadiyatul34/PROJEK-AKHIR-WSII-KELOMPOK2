@@ -1,8 +1,7 @@
 # SIPERPUS
 ## KELOMPOK 2
 
-[Gunakan screenshot dari projek web (salah satu saja) dan foto masing2 anggota]
-![Template Github README (1)](https://github.com/jhadiyatul34/PROJEK-AKHIR-WSII-KELOMPOK2/assets/120487265/bdbe19c5-6b88-49c3-a06c-c00fc47c8673)
+![Salinan dari Template Github README](https://github.com/jhadiyatul34/PROJEK-AKHIR-WSII-KELOMPOK2/assets/120487265/2cb9a1eb-0eb8-483d-88ae-636c448772ae)
 
 ### 🌐Tentang Project:
 ----------------
