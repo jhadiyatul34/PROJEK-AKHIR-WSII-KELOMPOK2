@@ -10,8 +10,8 @@ Nama project ini adalah Siperpus, sebuah platform yang bertujuan untuk meningkat
 ### 👨🏻‍💻Anggota Kelompok:
 ----------------
 - 5210311014 Hadiyatul Jannah (https://github.com/jhadiyatul34)
-- 5210311017 Nur Alfiyani Rakhmawati ()
-- 5210311021 Aulia Safira Putri ()
+- 5210311017 Nur Alfiyani Rakhmawati (https://github.com/Alfiyani24)
+- 5210311021 Aulia Safira Putri (https://github.com/AuliaSafiraPutri21)
 - 5210311036 Farahdiba Amalia Almanda (https://github.com/farahdibaalmanda)
 
 ### ⚙️Teknologi yang dipakai di Website:
