@@ -1,5 +1,5 @@
-# NAMA WEBSITE
-## KELOMPOK [Nomor]
+# SIPERPUS
+## KELOMPOK 2
 
 [Gunakan screenshot dari projek web (salah satu saja) dan foto masing2 anggota]
 ![Template Github README (1)](https://github.com/Dimaspermana293/PROJEK-AKHIR-WSII-KELOMPOK10/assets/97396687/53b8d7e7-38c1-4be6-aefd-7504628fdf79)
